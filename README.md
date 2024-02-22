@@ -3,7 +3,7 @@
 5. Instalar SQL Server 2022
     * Enlace de la web oficial de Microsoft:
         [Microsoft SQL Server 2022](https://www.microsoft.com/es-es/sql-server/sql-server-downloads/ "Web Oficial").
-    * Sigue los pasos del tutorial para seguir con la instalación
+    * Sigue los pasos del tutorial para seguir con la instalación:
         [Tutorial completo (Sql Server 2022)](https://www.youtube.com/watch?v=OV4qorEOkJc/).
   
 <!--
